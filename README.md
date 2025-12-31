@@ -18,6 +18,6 @@ GameRules.h / GameRules.cpp → Implements Memoarr-specific rules (pair validati
 
 Game.h / Game.cpp → High-level game controller coordinating players, board, and rules.
 
-ExpertRules.cpp → implements card power rules after a reveal (Crab repeat turn, Octopus swap adjacent, Turtle skip next, Walrus ban a cell, Penguin flip a visible card).
+ExpertRules.cpp → Implements card power rules after a reveal (Crab repeat turn, Octopus swap adjacent, Turtle skip next, Walrus ban a cell, Penguin flip a visible card).
 
 main.cpp → Program entry point; initializes the game and starts the main loop.
